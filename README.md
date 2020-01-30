@@ -28,7 +28,7 @@
 整个项目copy到Web服务器目录下，然后创建个数据库并导入`portal.sql`。如果你需要自定义背景图的话，别忘了存放背景图的`bg`目录要加写入权限。最后在`config.php`编辑你自己的设置，就搞定了。例如下面：
 
 ```
-git clone https://github.com/ChenViVi/portal.git
+git clone https://github.com/zhenshigu/portal.git
 
 cd portal
 
